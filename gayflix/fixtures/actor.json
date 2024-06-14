@@ -1,0 +1,52 @@
+[
+{
+  "model": "filmy.actor",
+  "pk": 1,
+  "fields": {
+    "name": "Honza Černý",
+    "birth_year": 1999,
+    "description": "Je černý, that's it",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.actor",
+  "pk": 2,
+  "fields": {
+    "name": "Tom Hanks",
+    "birth_year": 1969,
+    "description": "Kdo nezná Toma Hankse?",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.actor",
+  "pk": 3,
+  "fields": {
+    "name": "John Xina",
+    "birth_year": 3000,
+    "description": "His name is John Cena!!",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.actor",
+  "pk": 4,
+  "fields": {
+    "name": "Skibidi toilet",
+    "birth_year": 2000,
+    "description": "Skibidi sigma",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.actor",
+  "pk": 5,
+  "fields": {
+    "name": "Minecraft Steve",
+    "birth_year": 2016,
+    "description": "Kope diamondy",
+    "main_picture": ""
+  }
+}
+]

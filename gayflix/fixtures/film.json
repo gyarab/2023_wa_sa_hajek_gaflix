@@ -1,0 +1,88 @@
+[
+{
+  "model": "filmy.movie",
+  "pk": 1,
+  "fields": {
+    "name": "Avengers Endgame",
+    "year": 2019,
+    "footage": 165,
+    "description": "Hrozivé události způsobené Thanosem, který vyhladil polovinu života ve vesmíru a silně oslabil Avengers, vedou zbylé superhrdiny k tomu, aby ve strhujícím finále 22 filmů studia Marvel zvaném Avengers: Endgame sebrali poslední síly a pokusili se vrátit úder.",
+    "main_picture": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/163/434/163434385_4255c9.png",
+    "director": 3,
+    "actor": [],
+    "genre": [
+      1,
+      3
+    ]
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 2,
+  "fields": {
+    "name": "Forrest Gump",
+    "year": 1994,
+    "footage": 69,
+    "description": "Forrest Gump je americký film režiséra Roberta Zemeckise natočený v roce 1994 na motivy stejnojmenné knihy Winstona Grooma z roku 1985. Film dosáhl velkého úspěchu u diváků a vydělal celosvětově přes 667 milionů dolarů.",
+    "main_picture": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/158/988/158988468_acc7b5.jpg",
+    "director": null,
+    "actor": [],
+    "genre": [
+      5
+    ]
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 3,
+  "fields": {
+    "name": "Matrix",
+    "year": 1999,
+    "footage": null,
+    "description": "Matrix je kultovní sci-fi film z roku 1999. Je prvním z filmové série Matrix, napsané a režírované sestrami Wachovskými. Zahráli si v něm například Keanu Reeves, Laurence Fishburne, Carrie-Anne Mossová nebo Hugo Weaving. Přímé pokračování, Matrix Reloaded, mělo premiéru v květnu 2003.",
+    "main_picture": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/000/008/8959_164d69.jpg",
+    "director": null,
+    "actor": [
+      2
+    ],
+    "genre": [
+      3
+    ]
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 4,
+  "fields": {
+    "name": "Oppenheimer",
+    "year": 1997,
+    "footage": 82,
+    "description": "Oppenheimer je americký životopisný thriller z roku 2023 režiséra, scenáristy a producenta Christophera Nolana, jenž získal řadu ocenění včetně pěti Zlatých globů a sedmi Oscarů",
+    "main_picture": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/167/617/167617369_t19azl.jpg",
+    "director": null,
+    "actor": [],
+    "genre": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 5,
+  "fields": {
+    "name": "Interstellar",
+    "year": 2014,
+    "footage": 90,
+    "description": "Interstellar je americký vědeckofantastický film režiséra Christophera Nolana z roku 2014. Hlavní role ztvárnili Matthew McConaughey, Anne Hathawayová, Jessica Chastain, Michael Caine, Bill Irwin a Ellen Burstyn.",
+    "main_picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUw076GR7JpnfExoBLTMpiE9otUzk518SylUdC1roF6Ah63NS9",
+    "director": 3,
+    "actor": [
+      2
+    ],
+    "genre": [
+      2
+    ]
+  }
+}
+]

@@ -1,0 +1,52 @@
+[
+{
+  "model": "filmy.director",
+  "pk": 1,
+  "fields": {
+    "name": "Steven Spielberg",
+    "birth_year": 1946,
+    "description": "Steven Allan Spielberg, KBE, OMRI je americký režisér, filmový producent a scenárista, komerčně nejúspěšnější filmový režisér všech dob. Patří k nejpopulárnějším režisérům filmové historie",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 2,
+  "fields": {
+    "name": "Christopher Nolan",
+    "birth_year": 1961,
+    "description": "Christopher Edward Nolan je americko-britský režisér a scenárista. Debutoval v roce 1997 krátkometrážním filmem Doodlebug.",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 3,
+  "fields": {
+    "name": "Billy Wilder",
+    "birth_year": 1942,
+    "description": "Billy Wilder byl americký filmový scenárista a režisér židovského původu, který je dnes považován za jednoho z největších klasiků amerického filmu. ",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 4,
+  "fields": {
+    "name": "Ridley Scott",
+    "birth_year": 1944,
+    "description": "Sir Ridley Scott je britský režisér, producent, a scenárista. Proslavil se především režírováním filmů Vetřelec, Blade Runner, Gladiátor nebo Černý jestřáb sestřelen.",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 5,
+  "fields": {
+    "name": "Quentin Tarantino",
+    "birth_year": 1954,
+    "description": "Quentin Jerome Tarantino je americký filmový režisér, scenárista a herec, který začátkem devadesátých let proslul jako svěží, drsný i černohumorný vypravěč, který vnesl do tradičních amerických archetypů nový život.",
+    "main_picture": ""
+  }
+}
+]
